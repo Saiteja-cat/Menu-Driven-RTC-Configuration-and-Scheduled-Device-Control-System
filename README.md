@@ -127,9 +127,7 @@ Normal Operation
 
 ![LPC2148 Mini Project](Proteus/mini%20project.jpeg)
 
-### 🔄 Workflow Diagram
 
-![LPC2148 Workflow Diagram](Proteus/Flowdiagram.jpeg)
 
 ### 📺 LCD Interface
 
