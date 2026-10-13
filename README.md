@@ -128,11 +128,6 @@ Normal Operation
 ![LPC2148 Mini Project](Proteus/miniproject.jpeg)
 
 
-
-### 📺 LCD Interface
-
-![LPC2148 LCD Interface](Proteus/LPC2148_LCD.png)
-
 ### 📋 Main Menu
 
 ![Main Menu](Proteus/Main%20Menu.png)
