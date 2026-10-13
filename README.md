@@ -197,20 +197,6 @@ When the switch is pressed, an external interrupt is generated. The interrupt se
 
 ---
 
-## 📷 Hardware Setup
-
-<p align="center">
-  <img src="Hardware/Hardware_Setup.jpeg" width="600">
-</p>
-
-## 📺 LCD Setup
-
-<p align="center">
-  <img src="Proteus/LPC2148_LCD.png" width="600">
-</p>
-
----
-
 ## ⏰ RTC Management
 
 The LPC2148 internal RTC maintains:
